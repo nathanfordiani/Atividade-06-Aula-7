@@ -1,0 +1,123 @@
+.pag {
+    width: 1350px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.postagem {
+    background-color: rgb(226, 232, 253);
+    width: 550px;
+    height: 653px;
+    position: absolute;
+    left: 368px;
+    top: 167px;
+    border-top-left-radius: 44px;
+    border-top-right-radius: 44px;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+}
+
+.cabecalho {
+    background-color: rgb(233, 91, 149);
+    width: 1350px;
+    height: 98px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.orkut {
+    color: rgb(255, 255, 255);
+    width: 238px;
+    height: 55px;
+    position: absolute;
+    left: 98px;
+    top: -3px;
+    font-family: eyelevation pro;
+    text-align: left;
+    font-size: 96px;
+    letter-spacing: 3;
+}
+
+.comunidade {
+    color: rgb(255, 255, 255);
+    width: 233px;
+    height: 37px;
+    position: absolute;
+    left: 972px;
+    top: 32px;
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 32px;
+
+}
+
+.amigos {
+    color: rgb(255, 255, 255);
+    width: 128px;
+    height: 37px;
+    position: absolute;
+    left: 779px;
+    top: 32px;
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 32px;
+}
+
+.salah {
+    width: 149px;
+    height: 149px;
+    position: absolute;
+    left: 179px;
+    top: 250px;
+    border-top-left-radius: 202px;
+    border-top-right-radius: 202px;
+    border-bottom-left-radius: 202px;
+    border-bottom-right-radius: 202px;
+    background-image: url(images/salah.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nome {
+    color: rgb(0, 0, 0);
+    width: 206px;
+    height: 28px;
+    position: absolute;
+    left: 150px;
+    top: 408px;
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 24px;
+    letter-spacing: 3;
+}
+
+.garrote {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 461px;
+    height: 511px;
+    position: absolute;
+    left: 412px;
+    top: 197px;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    background-image: url(images/garrote.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.album {
+    color: rgb(233, 91, 149);
+    width: 465px;
+    height: 27px;
+    position: absolute;
+    left: 408px;
+    top: 728px;
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 24px;
+}
